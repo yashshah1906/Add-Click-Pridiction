@@ -1,1 +1,1 @@
-# Add-Click-Pridiction
+# Add-Click-Prediction
